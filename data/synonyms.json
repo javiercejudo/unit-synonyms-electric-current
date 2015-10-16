@@ -1,0 +1,13 @@
+{
+  "ampere": "ampere",
+  "amperes": "ampere",
+  "amp": "ampere",
+  "A": "ampere",
+
+  "abampere": "abampere",
+  "abamperes": "abampere",
+  "abA": "abampere",
+  "biot": "abampere",
+  "biots": "abampere",
+  "Bi": "abampere"
+}
