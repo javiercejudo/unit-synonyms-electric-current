@@ -20,8 +20,8 @@ Electric current units synonyms
 ```js
 var synonyms = require('unit-synonyms-electric-current').synonyms;
 
-synonyms['mol']; // => mole
-synonyms['pound moles']; // => poundMole
+synonyms['amp']; // => ampere
+synonyms['biots']; // => abampere
 ```
 
 ## Related projects
